@@ -3,7 +3,7 @@
 ---
 - The `reference style image` used is **The starry night by Vincent Van Gogh**
 
-![The starry night pic](https://github.com/fadh1l/style-transfer-vgg19/blob/main/style2_image.png)
+  ![The starry night pic](https://github.com/fadh1l/style-transfer-vgg19/blob/main/style2_image.png)
 
 - The `reference content image` is just a picture of some buildings in Astana,Kazakhstan
 
